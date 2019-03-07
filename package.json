@@ -1,0 +1,25 @@
+{
+  "name": "pstring",
+  "version": "1.0.0",
+  "description": "string manipulation helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kikit0106/pwhmodule.git"
+  },
+  "keywords": [
+    "pwh"
+  ],
+  "author": "Waskitha Hutama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kikit0106/pwhmodule/issues"
+  },
+  "homepage": "https://github.com/kikit0106/pwhmodule#readme",
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  }
+}
